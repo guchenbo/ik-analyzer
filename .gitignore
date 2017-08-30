@@ -1,4 +1,26 @@
+# Mac
+.DS_Store
+
+# Maven
 target
-.settings
+overlays
+dependency-reduced-pom.xml
+
+# Eclipse
+.metadata
+.externalToolBuilders
+.checkstyle
 .classpath
+.pmd
 .project
+.ruleset
+.settings
+#bin
+
+derby.log
+
+# IntelliJ IDEA
+*.idea
+*.iml
+
+# other
